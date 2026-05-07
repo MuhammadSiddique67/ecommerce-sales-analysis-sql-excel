@@ -78,14 +78,35 @@ Dataset includes:
 
 # Tools & Technologies
 
-- Microsoft Excel
-- SQL
-- Pivot Tables
-- Excel Dashboard
-- GitHub
+- Microsoft Excel  
+  - Data Cleaning  
+  - Data Preparation  
+  - Pivot Tables  
+  - Excel Functions & Formulas  
+  - Dashboard Creation  
+  - Data Visualization  
 
----
+- SQL  
+  - Aggregate Functions  
+  - GROUP BY  
+  - ORDER BY  
+  - CASE Statements  
+  - Joins  
+  - Filtering & Sorting  
+  - Business Analysis Queries  
 
+- Excel Dashboard  
+  - KPI Cards  
+  - Interactive Charts  
+  - Slicers & Filters  
+  - Trend Analysis  
+  - Regional Sales Analysis  
+  - Category Performance Visualization  
+
+- GitHub  
+  - Project Documentation  
+  - Version Control  
+  - Portfolio Showcase  
 # Project Structure
 
 ```text
@@ -227,13 +248,5 @@ Aspiring Data Analyst | Computational Finance Student
 GitHub: https://github.com/MuhammadSiddique67
 
 ---
-
-# Project Status
-
-Completed
-
----
-
-# License
 
 This project is for educational and portfolio purposes only.
