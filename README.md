@@ -196,14 +196,11 @@ Dashboard Features:
 
 ## Dashboard Preview
 
-```markdown
-## Dashboard Preview
 
 ```markdown
 ![Dashboard](dashboard/dashboard.png)
 ```
-```
----
+
 
 # Key Insights
 
