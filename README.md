@@ -196,13 +196,12 @@ Dashboard Features:
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here:
-
 ```markdown
 ## Dashboard Preview
 
-![Dashboard](<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/f0241944-c584-4f31-8e78-848f376e070f" />
-)
+```markdown
+![Dashboard](dashboard/dashboard.png)
+```
 ```
 ---
 
