@@ -200,6 +200,8 @@ Dashboard Features:
 Add your dashboard screenshot here:
 
 ```markdown
+## Dashboard Preview
+
 ![Dashboard](dashboard/dashboard.png)
 ```
 
