@@ -194,11 +194,10 @@ Dashboard Features:
 - Segment Filters
 - Ship Mode Filters
 
-```markdown
+
 ## Dashboard Preview
 
 ![Dashboard](dashboard/dashboard.png)
-```
 
 
 # Key Insights
