@@ -90,8 +90,7 @@ Dataset includes:
   - Aggregate Functions  
   - GROUP BY  
   - ORDER BY  
-  - CASE Statements  
-  - Joins  
+  - CASE Statements    
   - Filtering & Sorting  
   - Business Analysis Queries  
 
@@ -203,7 +202,7 @@ Add your dashboard screenshot here:
 ## Dashboard Preview
 
 ![Dashboard](dashboard/dashboard.png)
-
+```
 ---
 
 # Key Insights
