@@ -203,7 +203,6 @@ Add your dashboard screenshot here:
 ## Dashboard Preview
 
 ![Dashboard](dashboard/dashboard.png)
-```
 
 ---
 
